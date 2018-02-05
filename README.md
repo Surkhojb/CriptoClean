@@ -11,5 +11,3 @@ Sample app for check cryptocurrency prices.
 - Glide -> An image loading and caching library (https://bumptech.github.io/glide/)
 - EventBus -> Event bus for Android that simplifies communication between Activities, Fragments... (http://greenrobot.org/eventbus/)
 - Toasty -> Library for use toast with color and desing (https://github.com/GrenderG/Toasty)
-
-# Screenshot of the app.
