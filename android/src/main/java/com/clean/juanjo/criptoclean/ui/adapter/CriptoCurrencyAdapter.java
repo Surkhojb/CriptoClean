@@ -8,15 +8,13 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.clean.juanjo.criptoclean.R;
-import com.clean.juanjo.domain.model.CriptoModel;
-import com.clean.juanjo.presentation.topfragment.model.Cripto;
+import com.clean.juanjo.presentation.base.model.Cripto;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import butterknife.OnLongClick;
 
 /**
  * Created by juanj on 04/01/2018.

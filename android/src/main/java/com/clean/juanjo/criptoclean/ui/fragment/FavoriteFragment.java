@@ -14,14 +14,10 @@ import android.widget.Toast;
 import com.clean.juanjo.criptoclean.CriptoApp;
 import com.clean.juanjo.criptoclean.R;
 import com.clean.juanjo.criptoclean.di.component.DaggerFavoriteFragmentComponent;
-import com.clean.juanjo.criptoclean.di.component.DaggerTopFragmentComponent;
 import com.clean.juanjo.criptoclean.di.module.FavoriteFragmentModule;
-import com.clean.juanjo.criptoclean.di.module.TopFragmentModule;
-import com.clean.juanjo.criptoclean.ui.adapter.CriptoCurrencyAdapter;
-import com.clean.juanjo.criptoclean.ui.adapter.CriptoTouchListener;
 import com.clean.juanjo.criptoclean.ui.adapter.FavoriteCurrencyAdapter;
 import com.clean.juanjo.presentation.favoritefragment.FavoriteFragmentContract;
-import com.clean.juanjo.presentation.topfragment.model.Cripto;
+import com.clean.juanjo.presentation.base.model.Cripto;
 
 import java.util.List;
 

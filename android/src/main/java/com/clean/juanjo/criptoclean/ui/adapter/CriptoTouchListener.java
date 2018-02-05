@@ -6,7 +6,7 @@ import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.clean.juanjo.presentation.topfragment.model.Cripto;
+import com.clean.juanjo.presentation.base.model.Cripto;
 
 /**
  * Created by juanj on 17/01/2018.

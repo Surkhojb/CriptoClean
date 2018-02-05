@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.clean.juanjo.criptoclean.R;
-import com.clean.juanjo.presentation.topfragment.model.Cripto;
+import com.clean.juanjo.presentation.base.model.Cripto;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -5,8 +5,8 @@ import com.clean.juanjo.domain.interactor.DefaultObserver;
 import com.clean.juanjo.domain.interactor.GetCriptoByNameUseCase;
 import com.clean.juanjo.domain.interactor.GetTopUseCase;
 import com.clean.juanjo.domain.model.CriptoModel;
-import com.clean.juanjo.presentation.topfragment.model.Cripto;
-import com.clean.juanjo.presentation.topfragment.model.mapper.CriptoTransformer;
+import com.clean.juanjo.presentation.base.model.Cripto;
+import com.clean.juanjo.presentation.base.model.mapper.CriptoTransformer;
 
 import java.util.List;
 

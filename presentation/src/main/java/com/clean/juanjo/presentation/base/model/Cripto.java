@@ -1,4 +1,4 @@
-package com.clean.juanjo.presentation.topfragment.model;
+package com.clean.juanjo.presentation.base.model;
 
 
 public class Cripto {

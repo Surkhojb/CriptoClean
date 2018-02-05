@@ -21,7 +21,7 @@ import com.clean.juanjo.criptoclean.ui.adapter.CriptoTouchListener;
 import com.clean.juanjo.domain.model.event.OnRefresh;
 import com.clean.juanjo.domain.model.event.OnSearchCripto;
 import com.clean.juanjo.presentation.topfragment.TopFragmentContract;
-import com.clean.juanjo.presentation.topfragment.model.Cripto;
+import com.clean.juanjo.presentation.base.model.Cripto;
 
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;

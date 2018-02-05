@@ -1,6 +1,6 @@
 package com.clean.juanjo.presentation.favoritefragment;
 
-import com.clean.juanjo.presentation.topfragment.model.Cripto;
+import com.clean.juanjo.presentation.base.model.Cripto;
 
 import java.util.List;
 

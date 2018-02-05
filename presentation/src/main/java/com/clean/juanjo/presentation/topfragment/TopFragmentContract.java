@@ -1,7 +1,6 @@
 package com.clean.juanjo.presentation.topfragment;
 
-import com.clean.juanjo.domain.model.CriptoModel;
-import com.clean.juanjo.presentation.topfragment.model.Cripto;
+import com.clean.juanjo.presentation.base.model.Cripto;
 
 import java.util.List;
 

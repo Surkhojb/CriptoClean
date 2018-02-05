@@ -1,7 +1,7 @@
-package com.clean.juanjo.presentation.topfragment.model.mapper;
+package com.clean.juanjo.presentation.base.model.mapper;
 
 import com.clean.juanjo.domain.model.CriptoModel;
-import com.clean.juanjo.presentation.topfragment.model.Cripto;
+import com.clean.juanjo.presentation.base.model.Cripto;
 
 import java.util.ArrayList;
 import java.util.List;
